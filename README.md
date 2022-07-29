@@ -1,2 +1,4 @@
 # CoBeDOA_Data
- Due to filesize these data-base files had to be uploaded seperately
+ Due to filesize these data-base files had to be uploaded seperately.
+
+ Please see the main repo for details.
